@@ -1,0 +1,5 @@
+anthropic
+python-dotenv
+numpy
+rank-bm25
+voyageai
